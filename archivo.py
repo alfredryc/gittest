@@ -1,3 +1,3 @@
 
 
-chanchito feliz
+print ("Chanchito feliz")
